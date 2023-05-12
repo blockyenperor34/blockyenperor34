@@ -15,8 +15,8 @@ I'm a student from Taiwan.
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@Blocky_mowlinS)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 🐈 Random Cat Picture
+<img src="https://cataas.com/cat" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=blockyenperor34&icon=5&color=0)](https://visitcount.itsvg.in)
