@@ -12,11 +12,8 @@ I'm a student from Taiwan.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=blockyenperor34&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blockyenperor34&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Blocky_mowlinS)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🐈 Random Cat Picture
-<img src="https://cataas.com/cat" width="512px"/>
+![](https://cataas.com/cat?width=:512 or /cat?height=:512)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=blockyenperor34&icon=5&color=0)](https://visitcount.itsvg.in)
